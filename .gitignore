@@ -1,0 +1,12 @@
+# Visual Studio 暫存與編譯檔案
+.vs/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio 使用者設定
+*.user
+*.suo
+
+# 系統檔案
+Thumbs.db
+.DS_Store
